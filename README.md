@@ -52,11 +52,6 @@ Follow these steps to run the  file:
 ## Controls
 
 - **Arrow Keys**: Move the snake.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 Enjoy playing the Snake Game!
